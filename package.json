@@ -68,7 +68,7 @@
     "mermaid": "^8.14.0",
     "minizlib": "^2.1.2",
     "native-keymap": "^3.3.0",
-    "plist": "^3.0.4",
+    "plist": "^3.0.5",
     "popper.js": "^1.16.1",
     "prismjs": "^1.27.0",
     "snabbdom": "^3.3.1",
